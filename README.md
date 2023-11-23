@@ -35,7 +35,7 @@ To run the project, ensure you have Python installed on your PC. Execute the rel
 
 Feel free to download the project as a ZIP file for easy access.
 
-[Download Ludo Game](https://github.com/RynoCODE/Ludo/archive/refs/heads/main.zip) (Provide the download link here)
+[Download Ludo Game](https://github.com/RynoCODE/Ludo/archive/refs/heads/main.zip)
 
 ## Disclaimer
 
