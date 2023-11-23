@@ -1,3 +1,49 @@
-# Ludo
- Ludo Game project is written in Python. The project file contains python scripts (game.py, run.py, painter.py, recorder.py). This is a simple console based strategy board game which is very easy to understand and use. Talking about the gameplay, all the playing rules are the same just like we play in real time ludo. Here at first, the user has to select players i.e either human or computer. After selecting human, the player has to enter details such as name and select color(red, green, yellow and blue). the player can also start the game within two players if he/she wants.  After starting the game, a console based ludo board appears, other rules are the same. First, the computer or the player has to roll the dice. The main thing in this console based game is that the player just has to press “Enter Key” to roll the dice. At the top of the board, it displays a dice with the number. The system keeps on rolling until there’s a possible pawn to move. All the game movements are performed automatically. Whenever the player tries to end the game, there’s an option available to save the unfinished game so that he/she can continue it later. A simple console GUI is provided for the easy gameplay. The gameplay design is so simple that user won’t find it difficult to use and understand.  In order to run the project, you must have installed Python, on your PC. This is a simple console Based game written for the beginners. Simple Ludo Game in Python project with source code is free to use. Use for education purpose only!
-Download it as ZIP if you want!
+# Ludo Game in Python
+
+![Ludo Game](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ymimports.com%2Fpages%2Fhow-to-play-ludo&psig=AOvVaw1es7uuOTgV131vkq33RqRx&ust=1700835137293000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjmjeWm2oIDFQAAAAAdAAAAABAD)
+
+Welcome to the Ludo Game project, a console-based strategy board game written in Python. This project includes several Python scripts: `game.py`, `run.py`, `painter.py`, and `recorder.py`. Experience the classic Ludo gameplay in a simple and engaging console environment.
+
+## Features
+
+- **Player Selection**: Choose between human and computer players.
+
+- **Player Details**: For human players, enter your name and select a color (red, green, yellow, or blue).
+
+- **Game Start**: Begin the game with the option for a two-player setup.
+
+- **Rolling the Dice**: Press the "Enter Key" to roll the dice, and watch the game unfold with automatic movements.
+
+- **Save Option**: Save your game for later continuation.
+
+## Console GUI
+
+A user-friendly console GUI enhances the gaming experience, providing a simple and intuitive interface.
+
+## How to Run
+
+To run the project, ensure you have Python installed on your PC. Execute the relevant Python scripts (`run.py`, etc.) to start the game.
+
+**Note**: This project is designed for educational purposes.
+
+## Screenshots
+
+![Gameplay Screenshot 1](https://prnt.sc/py2sFMqbUYmb)
+![Gameplay Screenshot 2](https://prnt.sc/vMLtS3mc8gSG)
+
+## Download
+
+Feel free to download the project as a ZIP file for easy access.
+
+[Download Ludo Game](https://github.com/RynoCODE/Ludo/archive/refs/heads/main.zip) (Provide the download link here)
+
+## Disclaimer
+
+This Ludo Game project in Python is intended for educational purposes. Use it responsibly and enjoy the nostalgic gameplay!
+
+---
+
+**Contributions**: We welcome contributions! If you'd like to enhance the project, please fork the repository and create a pull request.
+
+**License**: This project is licensed under the MIT License.
+
