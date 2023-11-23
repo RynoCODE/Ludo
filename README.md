@@ -1,6 +1,6 @@
 # Ludo Game in Python
 
-![Ludo Game](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ymimports.com%2Fpages%2Fhow-to-play-ludo&psig=AOvVaw1es7uuOTgV131vkq33RqRx&ust=1700835137293000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjmjeWm2oIDFQAAAAAdAAAAABAD)
+![Ludo Game](https://cdn.shopify.com/s/files/1/0876/1176/files/i993_pimgpsh_fullsize_distr.png?v=1525147634)
 
 Welcome to the Ludo Game project, a console-based strategy board game written in Python. This project includes several Python scripts: `game.py`, `run.py`, `painter.py`, and `recorder.py`. Experience the classic Ludo gameplay in a simple and engaging console environment.
 
@@ -28,8 +28,8 @@ To run the project, ensure you have Python installed on your PC. Execute the rel
 
 ## Screenshots
 
-![Gameplay Screenshot 1](https://prnt.sc/py2sFMqbUYmb)
-![Gameplay Screenshot 2](https://prnt.sc/vMLtS3mc8gSG)
+![Gameplay Screenshot 1](https://img001.prntscr.com/file/img001/TdU61X2USiKcOs-0v4Iz7g.jpeg)
+![Gameplay Screenshot 2](https://img001.prntscr.com/file/img001/awnnTUWFRa-3SqUjf9iLSQ.jpeg)
 
 ## Download
 
